@@ -6,5 +6,5 @@ __pycache__/
 /config
 /bin
 *.bac
-config.ini
+#config.ini
 user_agents.user.txt
